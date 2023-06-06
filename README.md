@@ -2,7 +2,7 @@
 - 🔭 I’m currently studying in Applied Computer Science at Northwest Missouri State University
 - 🌱 I’m currently learning web apps, java, database
 - 🤔 I’m looking for help with technologies
-- 📫 How to reach me: prudhvi@gmail.com
+- 📫 How to reach me: prudhvichigurupati88@gmail.com
 
 <!--
 **prudhvichigurupati/prudhvichigurupati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
